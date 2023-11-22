@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+body {
+    overflow-x: hidden;
+    font-family: 'Playfair Display';
+    background-color: rgb(231, 125, 247);
+}
+
+section{
+    border:0px;
+    background-color: aliceblue;
+
+    cursor: pointer;
+    width: 100%;
+}
