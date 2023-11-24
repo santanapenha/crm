@@ -3,6 +3,10 @@ import Dashboard from "./pages/dashboard/dashboard";
 import Noticias from "./components/noticias/noticias";
 import Previsao from "./components/previsao/previsao";
 import Negocio from "./pages/negocio/negocio";
+<<<<<<< HEAD
+=======
+
+>>>>>>> 2bd399205e9d84aef9351f1613453f6004dbd9a0
 
 function Rotas(){
     return <BrowserRouter>

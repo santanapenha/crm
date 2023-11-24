@@ -5,7 +5,10 @@ import Indicador from "../../components/indicador/indicador.jsx";
 import Grafico from "../../components/grafico/grafico.jsx";
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 2bd399205e9d84aef9351f1613453f6004dbd9a0
 function Dashboard() {
     return <>
         <div className="container-fluid">
@@ -23,6 +26,8 @@ function Dashboard() {
                         <h1>Dashboard...</h1>
                         <button className="btn btn-primary ms-4">Atualizar</button>
                     </div>
+
+            
 
                     <div className="row">
 
