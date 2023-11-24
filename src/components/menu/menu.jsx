@@ -26,7 +26,7 @@ function Menu(props){
                     </li>
 
                     <li className="nav-item">
-                        <Link to="/negocios" className={props.page == "negocio" ? linkBlue : linkBlack}>
+                        <Link to="/negocio" className={props.page == "negocio" ? linkBlue : linkBlack}>
                             <i className="=fs-4 bi bi-wallet2"></i> <span className="ms-1 d-none d-sm-inline">Negócios</span>
                         </Link>
                     </li>
@@ -39,6 +39,11 @@ function Menu(props){
                     <li className="nav-item">
                         <Link to="/previsao" className={props.page == "previsao" ? linkBlue : linkBlack}>
                             <i className="=fs-4 bi bi-wallet2"></i> <span className="ms-1 d-none d-sm-inline">Previsao</span>
+                        </Link>
+                    </li>
+                    <li className="nav-item">
+                        <Link to="/atividades" className={props.page == "atividades" ? linkBlue : linkBlack}>
+                            <i className="=fs-4 bi bi-wallet2"></i> <span className="ms-1 d-none d-sm-inline">Atividades</span>
                         </Link>
                     </li>
                 </ul>

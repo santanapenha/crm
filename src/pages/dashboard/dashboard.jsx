@@ -4,6 +4,8 @@ import logo from "../../assets/logo.png";
 import Indicador from "../../components/indicador/indicador.jsx";
 import Grafico from "../../components/grafico/grafico.jsx";
 
+
+
 function Dashboard() {
     return <>
         <div className="container-fluid">

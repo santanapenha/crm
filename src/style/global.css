@@ -3,12 +3,12 @@
 body {
     overflow-x: hidden;
     font-family: 'Playfair Display';
-    background-color: rgb(231, 125, 247);
+    background-color: rgb(198, 75, 255);
 }
 
 section{
     border:0px;
-    background-color: aliceblue;
+    background-color: rgb(249, 160, 243);
 
     cursor: pointer;
     width: 100%;
