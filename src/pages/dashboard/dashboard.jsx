@@ -4,6 +4,7 @@ import logo from "../../assets/logo.png";
 import Indicador from "../../components/indicador/indicador.jsx";
 import Grafico from "../../components/grafico/grafico.jsx";
 
+
 function Dashboard() {
     return <>
         <div className="container-fluid">
@@ -21,6 +22,8 @@ function Dashboard() {
                         <h1>Dashboard...</h1>
                         <button className="btn btn-primary ms-4">Atualizar</button>
                     </div>
+
+            
 
                     <div className="row">
 
